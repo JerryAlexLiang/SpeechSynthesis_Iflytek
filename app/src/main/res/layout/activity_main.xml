@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#888888"
+    tools:context="com.liangyang.speechsynthesis_iflytek.MainActivity">
+
+    <EditText
+        android:id="@+id/edit_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="@android:drawable/editbox_background"
+        android:gravity="start" />
+
+    <ImageButton
+        android:id="@+id/icon_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@null"
+        android:src="@drawable/icon"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        />
+
+</RelativeLayout>
