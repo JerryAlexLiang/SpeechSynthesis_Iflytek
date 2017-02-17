@@ -1,12 +1,12 @@
 package com.liangyang.speechsynthesis_iflytek;
 
-import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.Toast;
 
 /**
  * 科大讯飞-在线语音合成技术集成Demo
@@ -37,8 +37,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         String content = mContent.getText().toString().trim();
         if (!TextUtils.isEmpty(content)) {
             AudioUtils.getInstance().speekText(content);
+        }else {
+            Toast.makeText(MainActivity.this, "你还没有输入文本哦", Toast.LENGTH_SHORT).show();
         }
     }
 
-
+    /**
+     * 结束activity，调用AudioUtils.getInstance().stopText();结束语音播放
+     */
+    @Override
+    protected void onDestroy() {
+        AudioUtils.getInstance().stopText();
+        super.onDestroy();
+    }
 }

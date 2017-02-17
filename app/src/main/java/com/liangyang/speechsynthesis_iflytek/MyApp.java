@@ -16,9 +16,8 @@ public class MyApp extends Application {
     public void onCreate() {
         super.onCreate();
         //初始化讯飞语音,可以在Application类中执行，把“appid=”后面替换上你在讯飞上创建的应用对应的Appid
-        SpeechUtility.createUtility(getApplicationContext(), "appid = 58a51ac5");
+        SpeechUtility.createUtility(getApplicationContext(), "appid=58a51ac5");
         AudioUtils.getInstance().init(getApplicationContext());
     }
-
 
 }
