@@ -91,8 +91,8 @@ public class AudioUtils {
         //处理语音合成关键类
         mSpeechSynthesizer = SpeechSynthesizer.createSynthesizer(context, mInitListener);
         //设置发言人
-//        mSpeechSynthesizer.setParameter(SpeechConstant.VOICE_NAME, "xiaoxin");
-        mSpeechSynthesizer.setParameter(SpeechConstant.VOICE_NAME, voiceName[6]);
+//        mSpeechSynthesizer.setParameter(SpeechConstant.VOICE_NAME, "xiaoqi");
+//        mSpeechSynthesizer.setParameter(SpeechConstant.VOICE_NAME, voiceName[6]);
         //设置音调
         mSpeechSynthesizer.setParameter(SpeechConstant.PITCH, "50");
         //设置音量
