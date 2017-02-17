@@ -19,4 +19,6 @@ public class MyApp extends Application {
         SpeechUtility.createUtility(getApplicationContext(), "appid = 58a51ac5");
         AudioUtils.getInstance().init(getApplicationContext());
     }
+
+
 }

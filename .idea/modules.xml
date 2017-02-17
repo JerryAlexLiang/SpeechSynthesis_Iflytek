@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpeechSynthesis_Iflytek.iml" filepath="$PROJECT_DIR$/SpeechSynthesis_Iflytek.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/demo02.iml" filepath="$PROJECT_DIR$/demo02/demo02.iml" />
     </modules>
   </component>
 </project>

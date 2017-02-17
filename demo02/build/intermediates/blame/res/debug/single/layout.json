@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\isrdemo.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\isrdemo.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\ttsdemo.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\ttsdemo.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\iatdemo.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\iatdemo.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\isedemo.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\isedemo.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\build\\intermediates\\res\\merged\\debug\\layout\\understander.xml",
+        "source": "D:\\WorkCode\\WorkSpace\\Test\\SpeechSynthesis_Iflytek\\demo02\\src\\main\\res\\layout\\understander.xml"
+    }
+]

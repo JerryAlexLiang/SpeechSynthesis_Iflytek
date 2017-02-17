@@ -39,4 +39,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             AudioUtils.getInstance().speekText(content);
         }
     }
+
+
 }
